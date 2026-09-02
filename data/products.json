@@ -26,5 +26,19 @@
     "desc": "",
     "image": "assests/products/1788357300955-mpqb62-12.jpg",
     "updated": "2026-09-02T13:55:02.706Z"
+  },
+  {
+    "id": "ec8aeb74-86f4-48cb-b04d-e4ec1df99e99",
+    "name": "LED Power Supply",
+    "cat": "LED Power Supply",
+    "price": "700",
+    "sku": "",
+    "voltage": "220v",
+    "watt": "10w",
+    "size": "",
+    "stock": "100",
+    "desc": "",
+    "image": "assests/products/1788357830735-p1nkm3-1.jpg",
+    "updated": "2026-09-02T14:03:53.576Z"
   }
 ]
