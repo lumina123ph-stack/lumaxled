@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "d1b17a1e-1bd9-4ffb-b607-d7d6f49631f8",
+    "name": "LED Power Supply",
+    "cat": "LED Power Supply",
+    "price": "700",
+    "sku": "",
+    "voltage": "220v",
+    "watt": "300w",
+    "size": "",
+    "stock": "200",
+    "desc": "",
+    "image": "assests/products/1788354652795-2ymp9j-1.jpg",
+    "updated": "2026-09-02T13:10:55.231Z"
+  }
+]
