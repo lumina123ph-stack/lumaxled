@@ -12,5 +12,19 @@
     "desc": "",
     "image": "assests/products/1788356917730-h2u3mw-2.jpg",
     "updated": "2026-09-02T13:48:39.915Z"
+  },
+  {
+    "id": "62b6830c-6299-4fe2-a742-1d68bbf775cb",
+    "name": "Down Lights",
+    "cat": "Downlights",
+    "price": "250",
+    "sku": "",
+    "voltage": "220v",
+    "watt": "10w",
+    "size": "",
+    "stock": "200",
+    "desc": "",
+    "image": "assests/products/1788357300955-mpqb62-12.jpg",
+    "updated": "2026-09-02T13:55:02.706Z"
   }
 ]
