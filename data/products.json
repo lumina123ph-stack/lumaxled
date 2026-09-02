@@ -68,5 +68,19 @@
     "desc": "",
     "image": "assests/products/1788358245617-nc5w6s-14.jpg",
     "updated": "2026-09-02T14:10:47.480Z"
+  },
+  {
+    "id": "46dbd7f5-21fe-4657-9bfe-e5a41e1cb0b3",
+    "name": "COB StripLights",
+    "cat": "COB Lights",
+    "price": "1100",
+    "sku": "",
+    "voltage": "24v",
+    "watt": "10w",
+    "size": "10mm",
+    "stock": "100",
+    "desc": "",
+    "image": "assests/products/1788358293041-mkut2i-13.jpg",
+    "updated": "2026-09-02T14:11:34.797Z"
   }
 ]
