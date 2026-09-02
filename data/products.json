@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "ba198e58-63ab-40fb-a84c-a8768a6813a1",
+    "name": "RGB 5050B",
+    "cat": "Strip Lights",
+    "price": "1300",
+    "sku": "",
+    "voltage": "24v",
+    "watt": "10w",
+    "size": "10mm",
+    "stock": "100",
+    "desc": "",
+    "image": "assests/products/1788356733955-vlzlef-images.jpg",
+    "updated": "2026-09-02T13:45:35.468Z"
+  }
+]
