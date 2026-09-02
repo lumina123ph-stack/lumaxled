@@ -1,19 +1,5 @@
 [
   {
-    "id": "0e6259a8-d952-407e-b842-cf157c92b51a",
-    "name": "RGB 5050B",
-    "cat": "Strip Lights",
-    "price": "1300",
-    "sku": "",
-    "voltage": "24v",
-    "watt": "10w",
-    "size": "10mm",
-    "stock": "100",
-    "desc": "",
-    "image": "assests/products/1788356472482-3je861-images.jpg",
-    "updated": "2026-09-02T13:41:14.399Z"
-  },
-  {
     "id": "5a5bd3cc-b15b-4675-a6db-71acac3c8338",
     "name": "Chandelier",
     "cat": "Chandelier",
