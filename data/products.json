@@ -40,5 +40,19 @@
     "desc": "",
     "image": "assests/products/1788357830735-p1nkm3-1.jpg",
     "updated": "2026-09-02T14:03:53.576Z"
+  },
+  {
+    "id": "fd516357-f83c-4bf9-b0d6-50430844f9d3",
+    "name": "Cob StripLights 3000k",
+    "cat": "COB Lights",
+    "price": "1100",
+    "sku": "",
+    "voltage": "24v",
+    "watt": "10w",
+    "size": "10mm",
+    "stock": "100",
+    "desc": "",
+    "image": "assests/products/1788358134825-fhhqlw-13.jpg",
+    "updated": "2026-09-02T14:08:56.549Z"
   }
 ]
