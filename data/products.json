@@ -68,5 +68,19 @@
     "desc": "",
     "image": "assests/products/1788358293041-mkut2i-13.jpg",
     "updated": "2026-09-02T14:11:34.797Z"
+  },
+  {
+    "id": "62219276-bc22-4a23-8afa-323e9538dd7b",
+    "name": "Linear Slim Lights",
+    "cat": "Office Lights",
+    "price": "590",
+    "sku": "",
+    "voltage": "200v",
+    "watt": "50w",
+    "size": "10x120",
+    "stock": "100",
+    "desc": "",
+    "image": "assests/products/1788399398581-zioah3-45.jpg",
+    "updated": "2026-09-03T01:36:41.067Z"
   }
 ]
