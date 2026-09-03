@@ -43,17 +43,17 @@
   },
   {
     "id": "b3b67699-ee46-47d1-a406-ffb1be857871",
-    "name": "COB StripLights 4000k",
+    "name": "COB STRIPLIGHT 4000k",
     "cat": "COB Lights",
     "price": "1100",
-    "sku": "",
+    "sku": "COB-320D-8MM",
     "voltage": "24v",
-    "watt": "10w",
+    "watt": "12W / M",
     "size": "10mm",
     "stock": "100",
-    "desc": "",
+    "desc": "COB LED Strip Light provides smooth, dot-free indoor lighting with neutral white 4000K output, energy efficiency, and easy cut-to-length installation.",
     "image": "assests/products/1788358245617-nc5w6s-14.jpg",
-    "updated": "2026-09-02T14:10:47.480Z"
+    "updated": "2026-09-03T09:06:12.023Z"
   },
   {
     "id": "46dbd7f5-21fe-4657-9bfe-e5a41e1cb0b3",
