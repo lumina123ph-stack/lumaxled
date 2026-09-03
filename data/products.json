@@ -84,6 +84,20 @@
     "updated": "2026-09-03T01:36:41.067Z"
   },
   {
+    "id": "9d5c2272-d724-48ed-a25d-3456d8389eb6",
+    "name": "2337",
+    "cat": "Ceiling Lights",
+    "price": "7800",
+    "sku": "",
+    "voltage": "",
+    "watt": "",
+    "size": "40CM",
+    "stock": "",
+    "desc": "",
+    "image": "assests/products/1788400237239-ojy6tq-ChatGPT-Image-Aug-28--2026--12_52_04-PM.png",
+    "updated": "2026-09-03T01:50:41.358Z"
+  },
+  {
     "id": "f9c562e1-5d27-40a3-a410-7b0977e52ebb",
     "name": "2337",
     "cat": "Ceiling Lights",
@@ -140,6 +154,20 @@
     "updated": "2026-09-03T02:07:04.021Z"
   },
   {
+    "id": "a7ad6b4d-a9ce-4414-84a7-f1c83a12fb3b",
+    "name": "WL260",
+    "cat": "LED Wall Lights",
+    "price": "760",
+    "sku": "3000k",
+    "voltage": "",
+    "watt": "",
+    "size": "220X112x50M",
+    "stock": "",
+    "desc": "",
+    "image": "assests/products/1788401228068-6g3ouo-WL260.png",
+    "updated": "2026-09-03T02:07:11.275Z"
+  },
+  {
     "id": "b6baa5d0-21f0-490e-8107-7515167059ec",
     "name": "SL1532",
     "cat": "LED Wall Lights",
@@ -151,7 +179,7 @@
     "stock": "5",
     "desc": "",
     "image": "assests/products/1788401417093-vkd5t1-5W-SL1532.png",
-    "updated": "2026-09-03T02:17:29.124Z"
+    "updated": "2026-09-03T02:17:56.102Z"
   },
   {
     "id": "e5b921c1-aec1-4b7e-acaf-1d2fddbdbb81",
