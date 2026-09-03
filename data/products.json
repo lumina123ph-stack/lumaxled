@@ -84,6 +84,20 @@
     "updated": "2026-09-03T01:36:41.067Z"
   },
   {
+    "id": "9d5c2272-d724-48ed-a25d-3456d8389eb6",
+    "name": "2337",
+    "cat": "Ceiling Lights",
+    "price": "7800",
+    "sku": "",
+    "voltage": "",
+    "watt": "",
+    "size": "40CM",
+    "stock": "",
+    "desc": "",
+    "image": "assests/products/1788400237239-ojy6tq-ChatGPT-Image-Aug-28--2026--12_52_04-PM.png",
+    "updated": "2026-09-03T01:50:41.358Z"
+  },
+  {
     "id": "f9c562e1-5d27-40a3-a410-7b0977e52ebb",
     "name": "2337",
     "cat": "Ceiling Lights",
@@ -124,5 +138,19 @@
     "desc": "",
     "image": "assests/products/1788400433327-nawfpw-ChatGPT-Image-Aug-27--2026--12_00_03-PM.png",
     "updated": "2026-09-03T01:54:00.358Z"
+  },
+  {
+    "id": "37410a9a-77b8-4743-a130-b6f8a22ae309",
+    "name": "WL260",
+    "cat": "LED Wall Lights",
+    "price": "760",
+    "sku": "3000k",
+    "voltage": "",
+    "watt": "",
+    "size": "220X112x50M",
+    "stock": "",
+    "desc": "",
+    "image": "assests/products/1788401220140-5wfxvw-WL260.png",
+    "updated": "2026-09-03T02:07:04.021Z"
   }
 ]
