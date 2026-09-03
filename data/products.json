@@ -194,5 +194,19 @@
     "desc": "",
     "image": "assests/products/1788403085991-695xrj-12WL460.png",
     "updated": "2026-09-03T02:38:08.033Z"
+  },
+  {
+    "id": "e57f258b-f66c-4e23-ae1b-ec89e4820ebb",
+    "name": "WL260",
+    "cat": "Strip Lights",
+    "price": "760",
+    "sku": "3000k",
+    "voltage": "",
+    "watt": "",
+    "size": "220x112x50mm",
+    "stock": "",
+    "desc": "",
+    "image": "assests/products/1788403594469-jf840u-WL260.png",
+    "updated": "2026-09-03T02:46:36.884Z"
   }
 ]
