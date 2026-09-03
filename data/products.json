@@ -180,5 +180,19 @@
     "desc": "",
     "image": "assests/products/1788401417093-vkd5t1-5W-SL1532.png",
     "updated": "2026-09-03T02:10:19.479Z"
+  },
+  {
+    "id": "e5b921c1-aec1-4b7e-acaf-1d2fddbdbb81",
+    "name": "WL160",
+    "cat": "Strip Lights",
+    "price": "1235.00",
+    "sku": "3000k-6000k",
+    "voltage": "",
+    "watt": "12W",
+    "size": "265x120x81mm",
+    "stock": "5",
+    "desc": "",
+    "image": "assests/products/1788401671933-1goqtt-WL160.png",
+    "updated": "2026-09-03T02:14:34.751Z"
   }
 ]
