@@ -166,5 +166,19 @@
     "desc": "",
     "image": "assests/products/1788401228068-6g3ouo-WL260.png",
     "updated": "2026-09-03T02:07:11.275Z"
+  },
+  {
+    "id": "b6baa5d0-21f0-490e-8107-7515167059ec",
+    "name": "SL1532",
+    "cat": "Strip Lights",
+    "price": "800",
+    "sku": "3000k",
+    "voltage": "",
+    "watt": "5W",
+    "size": "230x80x28mm",
+    "stock": "5",
+    "desc": "",
+    "image": "assests/products/1788401417093-vkd5t1-5W-SL1532.png",
+    "updated": "2026-09-03T02:10:19.479Z"
   }
 ]
