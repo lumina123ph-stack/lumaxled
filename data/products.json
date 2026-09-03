@@ -221,6 +221,20 @@
     "stock": "",
     "desc": "",
     "image": "assests/products/1788403912170-6ci8sw-18W-Surface_Square.png",
-    "updated": "2026-09-03T04:07:22.183Z"
+    "updated": "2026-09-03T04:07:23.400Z"
+  },
+  {
+    "id": "f8b960f1-87dc-45b7-8526-3e89518c4eac",
+    "name": "WL2440B",
+    "cat": "LED Wall Lights",
+    "price": "895",
+    "sku": "",
+    "voltage": "",
+    "watt": "",
+    "size": "133x133x67",
+    "stock": "",
+    "desc": "",
+    "image": "assests/products/1788408590205-7dlck3-WL2440B.png",
+    "updated": "2026-09-03T04:09:52.620Z"
   }
 ]
