@@ -211,9 +211,9 @@
   },
   {
     "id": "a68ebe99-1ed3-490d-9a42-4703dd8883da",
-    "name": "Surface/Square",
+    "name": "WL-2440A",
     "cat": "LED Wall Lights",
-    "price": "320",
+    "price": "870",
     "sku": "3000k-6000k",
     "voltage": "",
     "watt": "18",
@@ -221,6 +221,6 @@
     "stock": "",
     "desc": "",
     "image": "assests/products/1788403912170-6ci8sw-18W-Surface_Square.png",
-    "updated": "2026-09-03T02:54:32.501Z"
+    "updated": "2026-09-03T04:07:22.183Z"
   }
 ]
