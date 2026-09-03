@@ -208,5 +208,19 @@
     "desc": "",
     "image": "assests/products/1788403594469-jf840u-WL260.png",
     "updated": "2026-09-03T02:46:36.884Z"
+  },
+  {
+    "id": "a68ebe99-1ed3-490d-9a42-4703dd8883da",
+    "name": "Surface/Square",
+    "cat": "Strip Lights",
+    "price": "320",
+    "sku": "3000k-6000k",
+    "voltage": "",
+    "watt": "18",
+    "size": "225mm",
+    "stock": "",
+    "desc": "",
+    "image": "assests/products/1788403912170-6ci8sw-18W-Surface_Square.png",
+    "updated": "2026-09-03T02:51:54.412Z"
   }
 ]
