@@ -85,17 +85,17 @@
   },
   {
     "id": "9d5c2272-d724-48ed-a25d-3456d8389eb6",
-    "name": "2337",
-    "cat": "Ceiling Lights",
-    "price": "7800",
-    "sku": "",
-    "voltage": "",
-    "watt": "",
+    "name": "MODERN CRYSTAL LED CHANDELIER 6500K",
+    "cat": "Chandelier",
+    "price": "8000",
+    "sku": "2337",
+    "voltage": "220V - 265V",
+    "watt": "48W",
     "size": "40CM",
-    "stock": "",
-    "desc": "",
+    "stock": "10",
+    "desc": "Modern and elegant crystal LED ceiling light designed to add a luxurious touch to living rooms, dining areas, bedrooms, hotels, and other interiors. Features a stylish geometric design with sparkling crystal details and bright LED illumination, combining functionality with a premium contemporary look.",
     "image": "assests/products/1788400237239-ojy6tq-ChatGPT-Image-Aug-28--2026--12_52_04-PM.png",
-    "updated": "2026-09-03T01:50:41.358Z"
+    "updated": "2026-09-03T09:18:54.216Z"
   },
   {
     "id": "ae40056f-f76b-477f-9663-f9e4ba3990d5",
