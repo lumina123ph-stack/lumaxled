@@ -166,5 +166,19 @@
     "desc": "",
     "image": "assests/products/1788401671933-1goqtt-WL160.png",
     "updated": "2026-09-03T02:18:40.127Z"
+  },
+  {
+    "id": "aed601d3-09d9-4d67-8770-04246b049898",
+    "name": "WL460A",
+    "cat": "Strip Lights",
+    "price": "785",
+    "sku": "3000k",
+    "voltage": "",
+    "watt": "12W",
+    "size": "230x110x76mm",
+    "stock": "",
+    "desc": "",
+    "image": "assests/products/1788402827009-nebx29-12W-WL460A.png",
+    "updated": "2026-09-03T02:33:49.425Z"
   }
 ]
