@@ -15,17 +15,17 @@
   },
   {
     "id": "62b6830c-6299-4fe2-a742-1d68bbf775cb",
-    "name": "Down Lights",
+    "name": "LED DOWNLIGHT - 6500K",
     "cat": "Downlights",
     "price": "250",
-    "sku": "",
+    "sku": "MQTL 1241-Y-4",
     "voltage": "220v",
-    "watt": "10w",
-    "size": "",
+    "watt": "9W",
+    "size": "12*8MM",
     "stock": "200",
-    "desc": "",
+    "desc": "A high-performance surface LED downlight 9W 6500K featuring a premium sanan COB chip, durable aluminum housing, and bright daylight output",
     "image": "assests/products/1788357300955-mpqb62-12.jpg",
-    "updated": "2026-09-02T13:55:02.706Z"
+    "updated": "2026-09-03T08:58:41.591Z"
   },
   {
     "id": "ec8aeb74-86f4-48cb-b04d-e4ec1df99e99",
