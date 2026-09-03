@@ -113,17 +113,17 @@
   },
   {
     "id": "4ce17518-83b8-431d-a224-d9df75b4046c",
-    "name": "MC7067-3DL",
-    "cat": "Ceiling Lights",
-    "price": "16800",
-    "sku": "",
-    "voltage": "",
-    "watt": "",
+    "name": "LED 3 Ring Chandelier",
+    "cat": "Chandelier",
+    "price": "17000",
+    "sku": "MC7067-3DL",
+    "voltage": "220 - 265v",
+    "watt": "48w",
     "size": "600MM",
-    "stock": "",
-    "desc": "",
+    "stock": "10",
+    "desc": "LED 3 Ring Chandelier for Dining & Living Room.\nThree rings form a sculptural centerpiece with adjustable height, angle, brightness and color tone—ideal above dining tables and in living rooms, foyers or other statement spaces",
     "image": "assests/products/1788400433327-nawfpw-ChatGPT-Image-Aug-27--2026--12_00_03-PM.png",
-    "updated": "2026-09-03T01:54:00.358Z"
+    "updated": "2026-09-03T08:47:15.143Z"
   },
   {
     "id": "a7ad6b4d-a9ce-4414-84a7-f1c83a12fb3b",
