@@ -180,5 +180,19 @@
     "desc": "",
     "image": "assests/products/1788402827009-nebx29-12W-WL460A.png",
     "updated": "2026-09-03T02:33:49.425Z"
+  },
+  {
+    "id": "33b59113-fd9d-42be-8ede-abe6304e16a1",
+    "name": "WL460",
+    "cat": "LED Wall Lights",
+    "price": "790.00",
+    "sku": "",
+    "voltage": "",
+    "watt": "12W",
+    "size": "230x110x76mm",
+    "stock": "",
+    "desc": "",
+    "image": "assests/products/1788403085991-695xrj-12WL460.png",
+    "updated": "2026-09-03T02:38:08.033Z"
   }
 ]
