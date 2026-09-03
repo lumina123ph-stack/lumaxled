@@ -29,17 +29,17 @@
   },
   {
     "id": "ec8aeb74-86f4-48cb-b04d-e4ec1df99e99",
-    "name": "LED Power Supply",
+    "name": "LED POWER SUPPLY (200W)",
     "cat": "LED Power Supply",
-    "price": "700",
-    "sku": "",
-    "voltage": "220v",
-    "watt": "10w",
-    "size": "",
+    "price": "500",
+    "sku": "MQTL 1241-Y-4",
+    "voltage": "190V - 240V",
+    "watt": "DC24V / 200W",
+    "size": "20*5MM",
     "stock": "100",
-    "desc": "",
+    "desc": "Metal case / Aluminum case Working Temperature: 040C Storage Temperature: -2060C Ambient Humidity: 095% Non-Condensation Ambient Humidity: 095% Non-Condensation High price-effective, reliability with industry standards Built-in over voltage, over current, and short circuit protection - Enjoy best prices with free shipping vouchers.",
     "image": "assests/products/1788357830735-p1nkm3-1.jpg",
-    "updated": "2026-09-02T14:03:53.576Z"
+    "updated": "2026-09-03T09:04:24.143Z"
   },
   {
     "id": "b3b67699-ee46-47d1-a406-ffb1be857871",
